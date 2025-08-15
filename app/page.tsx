@@ -93,7 +93,7 @@ export default function Home() {
 
         <div className='inline-block lg:flex gap-4'>
 
-          <div className='flex-1 p-10 font-bold text-2xl bg-[yellow] rounded-2xl bg-[#f8f8f8] shadow-xl'>
+          <div className='flex-1 p-10 font-bold text-2xl rounded-2xl bg-[#f8f8f8] shadow-xl'>
             <h1>"I want to create a society that feels like home — where everyone is welcomed, supported, and encouraged to grow together. A place where we share laughs, face challenges as one, and celebrate every little victory."</h1>
 
             <div className='w-full flex mt-4'>
@@ -109,7 +109,7 @@ export default function Home() {
 
           <br />
 
-          <div className='flex-[2] flex flex-col justify-between p-10 font-bold text-2xl bg-[yellow] rounded-2xl bg-[#f8f8f8] shadow-xl'>
+          <div className='flex-[2] flex flex-col justify-between p-10 font-bold text-2xl rounded-2xl bg-[#f8f8f8] shadow-xl'>
             <h1 >" I want to create a society that brings people from all walks of life together — a place where kindness is the common language, laughter is shared freely, and every member feels valued. Here, we celebrate each other’s victories, support one another in tough times, and create unforgettable memories. This isn’t just about playing games or chatting online; it’s about building connections that last far beyond the screen."</h1>
 
             <div className='w-full flex mt-4'>
