@@ -194,7 +194,7 @@ export default function Home() {
           <div className='w-full p-3 flex gap-2 justify-center items-center mt-3'>
             <h1>Copyright 2025 forest team</h1>
             |
-            <h1 className='text-sm'>Created with love <a href='#' className='font-bold underline'>Rekakarya</a></h1>
+            <h1 className='text-sm'>Created with love <a href='https://www.rekakarya.studio/' className='font-bold underline'>Rekakarya</a></h1>
           </div>
 
 
